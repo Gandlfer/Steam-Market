@@ -11,7 +11,7 @@ RARITY={
     6:    "Covert",
 }
 
-if "__main__"==__name__:
+def func():
     data=dict()
     url="https://csgostash.com"
     page=requests.get(url)

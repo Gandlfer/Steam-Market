@@ -31,27 +31,27 @@
     "2021 Mirage": {
         "1": [
             "P250 | Drought",
-            "MAG-7 | Navy Sheen",
             "SSG 08 | Prey",
+            "MAG-7 | Navy Sheen",
             "MAC-10 | Sienna Damask",
             "PP-Bizon | Anolis"
         ],
         "2": [
             "FAMAS | CaliCamo",
-            "CZ75-Auto | Midnight Palm",
+            "Dual Berettas | Drift Wood",
             "P90 | Verdant Growth",
-            "Dual Berettas | Drift Wood"
+            "CZ75-Auto | Midnight Palm"
         ],
         "3": [
             "USP-S | Purple DDPAT",
-            "SG 553 | Desert Blossom",
             "MP9 | Music Box",
+            "SG 553 | Desert Blossom",
             "M249 | Humidor"
         ],
         "4": [
             "Glock-18 | Pink DDPAT",
-            "XM1014 | Elegant Vines",
-            "AUG | Sand Storm"
+            "AUG | Sand Storm",
+            "XM1014 | Elegant Vines"
         ],
         "5": [
             "Desert Eagle | Fennec Fox",
@@ -65,21 +65,21 @@
         "1": [
             "SG 553 | Bleached",
             "MP7 | Prey",
-            "P90 | Desert DDPAT",
             "Sawed-Off | Parched",
+            "P90 | Desert DDPAT",
             "R8 Revolver | Desert Brush"
         ],
         "2": [
             "AUG | Spalted Wood",
-            "MP9 | Old Roots",
             "Five-SeveN | Withered Vine",
+            "MP9 | Old Roots",
             "M249 | Midnight Palm"
         ],
         "3": [
-            "Nova | Quick Sand",
             "Galil AR | Amber Fade",
-            "G3SG1 | New Roots",
-            "P250 | Black & Tan"
+            "P250 | Black & Tan",
+            "Nova | Quick Sand",
+            "G3SG1 | New Roots"
         ],
         "4": [
             "MAC-10 | Case Hardened",
@@ -87,8 +87,8 @@
             "M4A4 | Red DDPAT"
         ],
         "5": [
-            "UMP-45 | Fade",
-            "SSG 08 | Death Strike"
+            "SSG 08 | Death Strike",
+            "UMP-45 | Fade"
         ],
         "6": [
             "AK-47 | Gold Arabesque"
@@ -96,28 +96,28 @@
     },
     "2021 Vertigo": {
         "1": [
+            "FAMAS | Faulty Wiring",
+            "MAC-10 | Strats",
             "CZ75-Auto | Framework",
             "XM1014 | Blue Tire",
-            "Dual Berettas | Oil Change",
-            "FAMAS | Faulty Wiring",
-            "MAC-10 | Strats"
+            "Dual Berettas | Oil Change"
         ],
         "2": [
+            "Glock-18 | Red Tire",
             "SSG 08 | Carbon Fiber",
             "UMP-45 | Mechanism",
-            "Glock-18 | Red Tire",
             "PP-Bizon | Breaker Box"
         ],
         "3": [
             "AK-47 | Green Laminate",
-            "Nova | Interlock",
             "P90 | Schematic",
-            "Negev | Infrastructure"
+            "Negev | Infrastructure",
+            "Nova | Interlock"
         ],
         "4": [
-            "MAG-7 | Prism Terrace",
+            "Galil AR | CAUTION!",
             "P250 | Digital Architect",
-            "Galil AR | CAUTION!"
+            "MAG-7 | Prism Terrace"
         ],
         "5": [
             "SG 553 | Hazard Pay",
@@ -129,10 +129,10 @@
     },
     "2018 Inferno Collection": {
         "1": [
-            "MP9 | Slide",
             "MP5-SD | Dirt Drop",
-            "AUG | Sweeper",
+            "MP9 | Slide",
             "UMP-45 | Mudder",
+            "AUG | Sweeper",
             "MAG-7 | Rust Coat"
         ],
         "2": [
@@ -160,16 +160,16 @@
     },
     "2018 Nuke Collection": {
         "1": [
-            "PP-Bizon | Facility Sketch",
             "Five-SeveN | Coolant",
+            "PP-Bizon | Facility Sketch",
             "P250 | Facility Draft",
             "UMP-45 | Facility Dark",
             "Nova | Mandrel"
         ],
         "2": [
             "Galil AR | Cold Fusion",
-            "Negev | Bulkhead",
             "M4A4 | Mainframe",
+            "Negev | Bulkhead",
             "MP7 | Motherboard"
         ],
         "3": [
@@ -180,20 +180,20 @@
         ],
         "4": [
             "Glock-18 | Nuclear Garden",
-            "AUG | Random Access",
-            "MAG-7 | Core Breach"
+            "MAG-7 | Core Breach",
+            "AUG | Random Access"
         ],
         "5": [
-            "Tec-9 | Remote Control",
-            "M4A1-S | Control Panel"
+            "M4A1-S | Control Panel",
+            "Tec-9 | Remote Control"
         ],
         "6": []
     },
     "Alpha Collection": {
         "1": [
-            "M249 | Jungle DDPAT",
-            "XM1014 | Jungle",
             "Five-SeveN | Anodized Gunmetal",
+            "XM1014 | Jungle",
+            "M249 | Jungle DDPAT",
             "MP9 | Dry Season",
             "Tec-9 | Tornado",
             "MP7 | Groundwater"
@@ -206,8 +206,8 @@
             "Sawed-Off | Mosaico"
         ],
         "3": [
-            "AUG | Anodized Navy",
             "MAG-7 | Hazard",
+            "AUG | Anodized Navy",
             "PP-Bizon | Rust Coat"
         ],
         "4": [
@@ -220,27 +220,27 @@
     "Ancient Collection": {
         "1": [
             "R8 Revolver | Night",
-            "P90 | Ancient Earth",
             "SSG 08 | Jungle Dashed",
             "SG 553 | Lush Ruins",
+            "P90 | Ancient Earth",
             "Nova | Army Sheen"
         ],
         "2": [
             "CZ75-Auto | Silver",
             "P2000 | Panther Camo",
-            "G3SG1 | Ancient Ritual",
-            "MP7 | Tall Grass"
+            "MP7 | Tall Grass",
+            "G3SG1 | Ancient Ritual"
         ],
         "3": [
-            "Tec-9 | Blast From the Past",
             "AUG | Carved Jade",
             "Galil AR | Dusk Ruins",
+            "Tec-9 | Blast From the Past",
             "FAMAS | Dark Water"
         ],
         "4": [
-            "XM1014 | Ancient Lore",
             "MAC-10 | Gold Brick",
-            "USP-S | Ancient Visions"
+            "USP-S | Ancient Visions",
+            "XM1014 | Ancient Lore"
         ],
         "5": [
             "AK-47 | Panthera onca",
@@ -252,8 +252,8 @@
     },
     "Assault Collection": {
         "1": [
-            "UMP-45 | Caramel",
-            "SG 553 | Tornado"
+            "SG 553 | Tornado",
+            "UMP-45 | Caramel"
         ],
         "2": [
             "Five-SeveN | Candy Apple"
@@ -271,9 +271,9 @@
     },
     "Aztec Collection": {
         "1": [
-            "Five-SeveN | Jungle",
             "Nova | Forest Leaves",
-            "SSG 08 | Lichen Dashed"
+            "SSG 08 | Lichen Dashed",
+            "Five-SeveN | Jungle"
         ],
         "2": [
             "AK-47 | Jungle Spray",
@@ -296,14 +296,14 @@
         ],
         "2": [
             "MAC-10 | Commuter",
+            "SG 553 | Traveler",
             "P90 | Leather",
-            "P2000 | Coach Class",
-            "SG 553 | Traveler"
+            "P2000 | Coach Class"
         ],
         "3": [
             "Sawed-Off | First Class",
-            "XM1014 | Red Leather",
-            "USP-S | Business Class"
+            "USP-S | Business Class",
+            "XM1014 | Red Leather"
         ],
         "4": [
             "Desert Eagle | Pilot",
@@ -332,8 +332,8 @@
         ],
         "3": [
             "Desert Eagle | Meteorite",
-            "CZ75-Auto | Tuxedo",
-            "Galil AR | Tuxedo"
+            "Galil AR | Tuxedo",
+            "CZ75-Auto | Tuxedo"
         ],
         "4": [
             "AK-47 | Emerald Pinstripe"
@@ -356,10 +356,10 @@
     "Cache Collection": {
         "1": [],
         "2": [
-            "AUG | Radiation Hazard",
             "Five-SeveN | Hot Shot",
-            "SG 553 | Fallout Warning",
             "PP-Bizon | Chemical Green",
+            "AUG | Radiation Hazard",
+            "SG 553 | Fallout Warning",
             "Negev | Nuclear Waste",
             "P250 | Contamination"
         ],
@@ -379,23 +379,23 @@
     },
     "Canals Collection": {
         "1": [
+            "SCAR-20 | Stone Mosaico",
             "R8 Revolver | Canal Spray",
             "CZ75-Auto | Indigo",
             "Negev | Boroque Sand",
-            "SCAR-20 | Stone Mosaico",
             "AUG | Navy Murano"
         ],
         "2": [
             "AK-47 | Baroque Purple",
-            "SG 553 | Candy Apple",
             "Tec-9 | Orange Murano",
+            "SG 553 | Candy Apple",
             "P250 | Dark Filigree"
         ],
         "3": [
-            "P90 | Baroque Red",
             "SSG 08 | Orange Filigree",
+            "G3SG1 | Violet Murano",
             "Dual Berettas | Emerald",
-            "G3SG1 | Violet Murano"
+            "P90 | Baroque Red"
         ],
         "4": [
             "Nova | Baroque Orange",
@@ -411,10 +411,10 @@
     },
     "Chop Shop Collection": {
         "1": [
-            "CZ75-Auto | Army Sheen",
-            "M249 | Impact Drill",
             "SCAR-20 | Army Sheen",
-            "MAG-7 | Seabird"
+            "CZ75-Auto | Army Sheen",
+            "MAG-7 | Seabird",
+            "M249 | Impact Drill"
         ],
         "2": [
             "Desert Eagle | Night",
@@ -425,12 +425,12 @@
             "P250 | Whiteout",
             "MAC-10 | Fade",
             "CZ75-Auto | Emerald",
-            "Five-SeveN | Nitro",
-            "MP7 | Full Stop"
+            "MP7 | Full Stop",
+            "Five-SeveN | Nitro"
         ],
         "4": [
-            "SG 553 | Bulldozer",
-            "Dual Berettas | Duelist"
+            "Dual Berettas | Duelist",
+            "SG 553 | Bulldozer"
         ],
         "5": [
             "M4A1-S | Hot Rod",
@@ -440,8 +440,8 @@
     },
     "Cobblestone Collection": {
         "1": [
-            "MAC-10 | Indigo",
             "UMP-45 | Indigo",
+            "MAC-10 | Indigo",
             "P90 | Storm",
             "SCAR-20 | Storm",
             "Dual Berettas | Briar"
@@ -449,12 +449,12 @@
         "2": [
             "USP-S | Royal Blue",
             "MAG-7 | Silver",
-            "Sawed-Off | Rust Coat",
-            "Nova | Green Apple"
+            "Nova | Green Apple",
+            "Sawed-Off | Rust Coat"
         ],
         "3": [
-            "P2000 | Chainmail",
-            "MP9 | Dark Age"
+            "MP9 | Dark Age",
+            "P2000 | Chainmail"
         ],
         "4": [
             "CZ75-Auto | Chalice",
@@ -469,8 +469,8 @@
     },
     "Control Collection": {
         "1": [
-            "CZ75-Auto | Jungle Dashed",
             "P250 | Forest Night",
+            "CZ75-Auto | Jungle Dashed",
             "MP9 | Army Sheen",
             "XM1014 | Charter",
             "AUG | Surveillance"
@@ -478,19 +478,19 @@
         "2": [
             "MP5-SD | Nitro",
             "MAG-7 | Carbon Fiber",
-            "Dual Berettas | Switch Board",
-            "Desert Eagle | The Bronze"
+            "Desert Eagle | The Bronze",
+            "Dual Berettas | Switch Board"
         ],
         "3": [
             "P2000 | Dispatch",
             "M4A4 | Global Offensive",
-            "SSG 08 | Threat Detected",
-            "SCAR-20 | Magna Carta"
+            "SCAR-20 | Magna Carta",
+            "SSG 08 | Threat Detected"
         ],
         "4": [
+            "UMP-45 | Crime Scene",
             "Five-SeveN | Berries And Cherries",
-            "FAMAS | Prime Conspiracy",
-            "UMP-45 | Crime Scene"
+            "FAMAS | Prime Conspiracy"
         ],
         "5": [
             "M4A1-S | Blue Phosphor",
@@ -508,8 +508,8 @@
             "M4A4 | Desert Storm"
         ],
         "3": [
-            "Sawed-Off | Copper",
             "AWP | Snake Camo",
+            "Sawed-Off | Copper",
             "AUG | Copperhead"
         ],
         "4": [
@@ -524,17 +524,17 @@
         "1": [
             "P250 | Sand Dune",
             "G3SG1 | Desert Storm",
-            "MP9 | Sand Dashed",
             "P90 | Sand Spray",
-            "Nova | Predator",
-            "SCAR-20 | Sand Mesh"
+            "MP9 | Sand Dashed",
+            "SCAR-20 | Sand Mesh",
+            "Nova | Predator"
         ],
         "2": [
             "AK-47 | Safari Mesh",
-            "Five-SeveN | Orange Peel",
             "MAC-10 | Palm",
-            "Tec-9 | VariCamo",
-            "Sawed-Off | Snake Camo"
+            "Five-SeveN | Orange Peel",
+            "Sawed-Off | Snake Camo",
+            "Tec-9 | VariCamo"
         ],
         "3": [
             "SG 553 | Damascus Steel",
@@ -551,16 +551,16 @@
     },
     "Gods and Monsters Collection": {
         "1": [
+            "MP7 | Asterion",
             "Nova | Moon in Libra",
-            "Dual Berettas | Moon in Libra",
             "AUG | Daedalus",
-            "MP7 | Asterion"
+            "Dual Berettas | Moon in Libra"
         ],
         "2": [
             "AWP | Sun in Leo",
+            "P2000 | Pathfinder",
             "M249 | Shipping Forecast",
-            "Tec-9 | Hades",
-            "P2000 | Pathfinder"
+            "Tec-9 | Hades"
         ],
         "3": [
             "UMP-45 | Minotaur's Labyrinth",
@@ -581,26 +581,26 @@
         "1": [
             "M249 | Predator",
             "Tec-9 | Phoenix Chalk",
-            "Sawed-Off | Clay Ambush",
             "Dual Berettas | Heist",
-            "PP-Bizon | Death Rattle"
+            "PP-Bizon | Death Rattle",
+            "Sawed-Off | Clay Ambush"
         ],
         "2": [
             "Nova | Rust Coat",
-            "MP7 | Vault Heist",
+            "R8 Revolver | Phoenix Marker",
             "UMP-45 | Houndstooth",
-            "R8 Revolver | Phoenix Marker"
+            "MP7 | Vault Heist"
         ],
         "3": [
             "P250 | Bengal Tiger",
-            "P90 | Tiger Pit",
             "Desert Eagle | Night Heist",
-            "Negev | Phoenix Stencil"
+            "Negev | Phoenix Stencil",
+            "P90 | Tiger Pit"
         ],
         "4": [
             "SG 553 | Hypnotic",
-            "Galil AR | Phoenix Blacklight",
-            "Glock-18 | Franklin"
+            "Glock-18 | Franklin",
+            "Galil AR | Phoenix Blacklight"
         ],
         "5": [
             "AWP | Silk Tiger",
@@ -629,19 +629,19 @@
     },
     "Italy Collection": {
         "1": [
+            "Nova | Sand Dune",
             "AUG | Contractor",
             "FAMAS | Colony",
             "Tec-9 | Groundwater",
-            "Nova | Sand Dune",
             "PP-Bizon | Sand Dashed"
         ],
         "2": [
             "M4A1-S | Boreal Forest",
             "Nova | Candy Apple",
+            "UMP-45 | Gunsmoke",
             "XM1014 | CaliCamo",
             "Dual Berettas | Stained",
-            "P2000 | Granite Marbleized",
-            "UMP-45 | Gunsmoke"
+            "P2000 | Granite Marbleized"
         ],
         "3": [
             "Glock-18 | Candy Apple",
@@ -658,17 +658,17 @@
         "1": [
             "G3SG1 | Jungle Dashed",
             "P250 | Boreal Forest",
-            "SG 553 | Waves Perforated",
             "AUG | Storm",
+            "SG 553 | Waves Perforated",
             "Galil AR | Sage Spray",
             "XM1014 | Blue Spruce"
         ],
         "2": [
             "AWP | Safari Mesh",
             "PP-Bizon | Night Ops",
-            "XM1014 | Blue Steel",
             "Desert Eagle | Mudder",
-            "FAMAS | Cyanospatter"
+            "FAMAS | Cyanospatter",
+            "XM1014 | Blue Steel"
         ],
         "3": [
             "P90 | Teardown",
@@ -684,18 +684,18 @@
     "Militia Collection": {
         "1": [
             "XM1014 | Grassland",
-            "PP-Bizon | Forest Leaves",
-            "MAC-10 | Tornado"
+            "MAC-10 | Tornado",
+            "PP-Bizon | Forest Leaves"
         ],
         "2": [
             "P2000 | Grassland Leaves"
         ],
         "3": [
             "P250 | Modern Hunter",
-            "PP-Bizon | Modern Hunter",
             "Nova | Modern Hunter",
-            "Nova | Blaze Orange",
-            "XM1014 | Blaze Orange"
+            "PP-Bizon | Modern Hunter",
+            "XM1014 | Blaze Orange",
+            "Nova | Blaze Orange"
         ],
         "4": [
             "M4A4 | Modern Hunter"
@@ -707,8 +707,8 @@
     },
     "Mirage Collection": {
         "1": [
-            "Five-SeveN | Contractor",
             "AUG | Colony",
+            "Five-SeveN | Contractor",
             "P90 | Scorched",
             "G3SG1 | Safari Mesh",
             "P250 | Bone Mask",
@@ -741,8 +741,8 @@
             "SG 553 | Barricade"
         ],
         "2": [
-            "Dual Berettas | Pyre",
             "M4A1-S | Moss Quartz",
+            "Dual Berettas | Pyre",
             "MAG-7 | Chainmail",
             "USP-S | Pathfinder"
         ],
@@ -753,9 +753,9 @@
             "SCAR-20 | Brass"
         ],
         "4": [
-            "Desert Eagle | Emerald J\u00f6rmungandr",
             "P90 | Astral J\u00f6rmungandr",
-            "AUG | Flame J\u00f6rmungandr"
+            "AUG | Flame J\u00f6rmungandr",
+            "Desert Eagle | Emerald J\u00f6rmungandr"
         ],
         "5": [
             "Negev | Mj\u00f6lnir"
@@ -766,21 +766,21 @@
     },
     "Nuke Collection": {
         "1": [
-            "MAG-7 | Irradiated Alert",
+            "PP-Bizon | Irradiated Alert",
             "Sawed-Off | Irradiated Alert",
-            "PP-Bizon | Irradiated Alert"
+            "MAG-7 | Irradiated Alert"
         ],
         "2": [
-            "P90 | Fallout Warning",
+            "XM1014 | Fallout Warning",
             "UMP-45 | Fallout Warning",
-            "XM1014 | Fallout Warning"
+            "P90 | Fallout Warning"
         ],
         "3": [
             "M4A4 | Radiation Hazard"
         ],
         "4": [
-            "Tec-9 | Nuclear Threat",
-            "P250 | Nuclear Threat"
+            "P250 | Nuclear Threat",
+            "Tec-9 | Nuclear Threat"
         ],
         "5": [],
         "6": []
@@ -791,8 +791,8 @@
         ],
         "2": [
             "M249 | Blizzard Marbleized",
-            "Galil AR | Winter Forest",
-            "G3SG1 | Arctic Camo"
+            "G3SG1 | Arctic Camo",
+            "Galil AR | Winter Forest"
         ],
         "3": [
             "MP7 | Whiteout",
@@ -806,20 +806,20 @@
         "1": [
             "MP9 | Storm",
             "Sawed-Off | Sage Spray",
-            "M249 | Contrast Spray",
             "MAG-7 | Storm",
-            "UMP-45 | Scorched"
+            "UMP-45 | Scorched",
+            "M249 | Contrast Spray"
         ],
         "2": [
             "Glock-18 | Night",
             "Desert Eagle | Urban DDPAT",
-            "P2000 | Grassland",
-            "MP7 | Gunsmoke"
+            "MP7 | Gunsmoke",
+            "P2000 | Grassland"
         ],
         "3": [
             "CZ75-Auto | Nitro",
-            "XM1014 | VariCamo Blue",
-            "SSG 08 | Detour"
+            "SSG 08 | Detour",
+            "XM1014 | VariCamo Blue"
         ],
         "4": [
             "USP-S | Road Rash",
@@ -835,12 +835,12 @@
             "Tec-9 | Bamboo Forest",
             "PP-Bizon | Bamboo Print",
             "P250 | Mint Kimono",
-            "G3SG1 | Orange Kimono",
-            "Sawed-Off | Bamboo Shadow"
+            "Sawed-Off | Bamboo Shadow",
+            "G3SG1 | Orange Kimono"
         ],
         "2": [
-            "P250 | Crimson Kimono",
-            "Desert Eagle | Midnight Storm"
+            "Desert Eagle | Midnight Storm",
+            "P250 | Crimson Kimono"
         ],
         "3": [
             "MAG-7 | Counter Terrace",
@@ -848,8 +848,8 @@
             "Tec-9 | Terrace"
         ],
         "4": [
-            "Five-SeveN | Neon Kimono",
             "Desert Eagle | Sunset Storm \u58f1",
+            "Five-SeveN | Neon Kimono",
             "Desert Eagle | Sunset Storm \u5f10",
             "M4A4 | Daybreak"
         ],
@@ -869,17 +869,17 @@
             "Dual Berettas | Contractor"
         ],
         "2": [
-            "Galil AR | VariCamo",
             "M249 | Gator Mesh",
-            "USP-S | Forest Leaves",
+            "G3SG1 | VariCamo",
+            "Galil AR | VariCamo",
             "AUG | Condemned",
-            "MP9 | Orange Peel",
-            "G3SG1 | VariCamo"
+            "USP-S | Forest Leaves",
+            "MP9 | Orange Peel"
         ],
         "3": [
             "SSG 08 | Acid Fade",
-            "FAMAS | Teardown",
-            "Five-SeveN | Silver Quartz"
+            "Five-SeveN | Silver Quartz",
+            "FAMAS | Teardown"
         ],
         "4": [
             "M4A1-S | Nitro"
@@ -890,22 +890,22 @@
     "St. Marc Collection": {
         "1": [
             "M249 | Jungle",
-            "MAC-10 | Surfwood",
             "PP-Bizon | Seabird",
-            "MP5-SD | Bamboo Garden",
-            "Sawed-Off | Jungle Thicket"
+            "MAC-10 | Surfwood",
+            "Sawed-Off | Jungle Thicket",
+            "MP5-SD | Bamboo Garden"
         ],
         "2": [
-            "Tec-9 | Rust Leaf",
             "XM1014 | Banana Leaf",
-            "P90 | Sunset Lily",
-            "M4A4 | Dark Blossom"
+            "Tec-9 | Rust Leaf",
+            "M4A4 | Dark Blossom",
+            "P90 | Sunset Lily"
         ],
         "3": [
-            "FAMAS | Sundown",
             "Five-SeveN | Crimson Blossom",
-            "UMP-45 | Day Lily",
-            "MP7 | Teal Blossom"
+            "MP7 | Teal Blossom",
+            "FAMAS | Sundown",
+            "UMP-45 | Day Lily"
         ],
         "4": [
             "SSG 08 | Sea Calico",
@@ -925,15 +925,15 @@
             "UMP-45 | Urban DDPAT",
             "Five-SeveN | Forest Night",
             "PP-Bizon | Urban Dashed",
-            "Dual Berettas | Colony",
-            "Nova | Polar Mesh"
+            "Nova | Polar Mesh",
+            "Dual Berettas | Colony"
         ],
         "2": [
             "M4A4 | Urban DDPAT",
-            "MAC-10 | Candy Apple",
             "P250 | Metallic DDPAT",
-            "SCAR-20 | Carbon Fiber",
+            "MAC-10 | Candy Apple",
             "MAG-7 | Metallic DDPAT",
+            "SCAR-20 | Carbon Fiber",
             "P90 | Ash Wood"
         ],
         "3": [
