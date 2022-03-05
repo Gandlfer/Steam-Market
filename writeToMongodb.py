@@ -4,7 +4,7 @@ from csgoitem import func
 
 if __name__=="__main__":
     func()
-    myclient= pymongo.MongoClient("mongodb://192.168.0.252:27017/")
+    myclient= pymongo.MongoClient("mongodb://192.168.1.252:27017/")
     mydb=myclient["csgo"]
     with open("csgoweaponlist.json") as f:
         data=json.load(f)
