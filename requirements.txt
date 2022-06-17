@@ -1,0 +1,3 @@
+pymongo 
+BeautifulSoup4 
+requests
